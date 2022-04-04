@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autograder", "Autograder\Autograder.csproj", "{B580E1EC-038D-4717-B60E-6E106478D11C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutograderTest", "AutograderTest\AutograderTest.csproj", "{240CCE2E-67A1-4A54-A768-7DFB10FAB3F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B580E1EC-038D-4717-B60E-6E106478D11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B580E1EC-038D-4717-B60E-6E106478D11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B580E1EC-038D-4717-B60E-6E106478D11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B580E1EC-038D-4717-B60E-6E106478D11C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{240CCE2E-67A1-4A54-A768-7DFB10FAB3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240CCE2E-67A1-4A54-A768-7DFB10FAB3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240CCE2E-67A1-4A54-A768-7DFB10FAB3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240CCE2E-67A1-4A54-A768-7DFB10FAB3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA1318B5-35D5-4C70-8390-C402984DAF2B}
+	EndGlobalSection
+EndGlobal
